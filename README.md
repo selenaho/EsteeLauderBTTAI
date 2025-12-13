@@ -11,7 +11,7 @@
 | Sahiti Srikakolapu | @sahiti153    | ...                                                                                                         |
 | Angela Wang        | @angelawang100| ...                                                                                                         |
 | Rosina Zhou        | @             | ...                                                                                                         |
-| Abubakar Diallo    | @dialloni     | ...                                                                                                         | 
+| Abubakar Diallo    | @dialloni     | Treatment effect exploration & heterogeneity analysis, customer segmentation (RFM analysis), customer lifecycle analysis                                                                                                         | 
 
 ---
 
