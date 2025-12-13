@@ -26,13 +26,22 @@
 
 ## 👩🏽‍💻 **Setup and Installation**
 
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
+To clone this repo: ```git clone git@github.com:selenaho/EsteeLauderBTTAI.git```
 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+Then navigate to the repo:  ```cd EsteeLauderBTTAI```
+
+Create virtual environment: ```python3 -m venv <virtual environment name>```
+
+Activate: ```source <virtual env name>/bin/activate```
+
+Install dependencies: ```pip install jupyter pandas numpy matplotlib seaborn scikit-learn statsmodels```
+
+Use the notebook command to execute the notebook: ```jupyter notebook <notebook>.ipynb```
+
+From there, you can run the notebook and view results
+
+Alternatively: download .ipynb file and run on Google Colab
+
 
 ---
 
