@@ -8,7 +8,7 @@
 | Name               | GitHub Handle | Contribution                                                                                                |
 |--------------------|---------------|-------------------------------------------------------------------------------------------------------------|
 | Selena Ho          | @selenaho     | Exploratory data analysis (EDA), data visualization, model training and optimization, MLRATE adjusted ATE calculation, results interpretation     |
-| Sahiti Srikakolapu | @sahiti153    | ...                                                                                                         |
+| Sahiti Srikakolapu | @sahiti153    | Exploratory data analysis (EDA), OLS model training + ATE/MLRATE, Synthesized reults                        |
 | Angela Wang        | @angelawang100| ...                                                                                                         |
 | Rosina Zhou        | @             | ...                                                                                                         |
 | Abubakar Diallo    | @dialloni     | Treatment effect exploration & heterogeneity analysis, customer segmentation (RFM analysis), customer lifecycle analysis                                                                                                         | 
