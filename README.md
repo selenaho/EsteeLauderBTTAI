@@ -9,7 +9,7 @@
 |--------------------|---------------|-------------------------------------------------------------------------------------------------------------|
 | Selena Ho          | @selenaho     | Exploratory data analysis (EDA), data visualization, model training and optimization, MLRATE adjusted ATE calculation, results interpretation     |
 | Sahiti Srikakolapu | @sahiti153    | Exploratory data analysis (EDA), OLS model training + ATE/MLRATE, Synthesized reults                        |
-| Angela Wang        | @angelawang100| ...                                                                                                         |
+| Angela Wang        | @angelawang100| Exploratory data analysis (EDA), power analysis (t-test & MLRATE), covariate balance diagnostics, OLS ATE estimation, baseline model training + MLRATE ATE, results interpretation |
 | Rosina Zhou        | @             | ...                                                                                                         |
 | Abubakar Diallo    | @dialloni     | Treatment effect exploration & heterogeneity analysis, customer segmentation (RFM analysis), customer lifecycle analysis                                                                                                         | 
 
